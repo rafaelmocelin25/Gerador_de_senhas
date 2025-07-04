@@ -5,7 +5,7 @@
     --cor-de-fundo: #000000;
     --fundo-senha: #000000;
     --fundo-texto: #ffffff;
-    --borda: background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);;
+    --borda: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
