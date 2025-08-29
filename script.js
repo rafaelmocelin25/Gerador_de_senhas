@@ -5,7 +5,7 @@ numeroSenha.textcontent = tamanhoSenha;
 const botoes = document.querySelectorAll('.paramero.senha__botao');
 
 botoes[0].onclick = diminuiTamanho;
-botoes[01.onclick = aumentaTamanho;
+botoes[1].onclick = aumentaTamanho;
 
 function aumentaTamanho(){
     if (tamanhoSenha)
