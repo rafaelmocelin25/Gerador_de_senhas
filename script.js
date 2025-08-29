@@ -1,4 +1,4 @@
-const numerosenha = document.querySelector('.parametro-senha__texti')
+const numeroSenha = document.querySelector('.parametro-senha__texti')
 let tamanhoSenha = 12;
 numeroSenha.textcontent = tamanhoSenha;
 
