@@ -3,9 +3,9 @@
 :root {
     --branco: white;
     background-image: url(Cadeado_verde.jpg);
-    --fundo-senha: #00244D;
-    --fundo-texto: #001E40;
-    --borda: #0075FF;
+    --fundo-senha: #063d1d;
+    --fundo-texto: #063d1d;
+    --borda: #067e38;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
     background-size: 2000px;
